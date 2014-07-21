@@ -1,6 +1,5 @@
 #!/usr/bin/env python
 from setuptools import setup, find_packages
-from pip.req import parse_requirements
 
 # parse requirements
 # reqs = parse_requirements("requirements/common.txt")
